@@ -1,0 +1,17 @@
+/*Media Queries*/
+
+@media (max-width: 768px) {
+    /* CSS in here for mobile only */
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+    /* CSS in here for tablet only */
+}
+
+/* Galaxy Tab 10.1 portrait and landscape */
+@media
+}
+
+}
+@media (min-width: 1025px) {
+    /* CSS in here for desktop only */
+}
